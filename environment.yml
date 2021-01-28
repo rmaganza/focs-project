@@ -4,7 +4,5 @@ channels:
   - defaults
 dependencies:
   - pandas
-  - unidecode
   - ipykernel
   - autopep8
-prefix: C:\tools\miniconda3\envs\focs
